@@ -1,0 +1,152 @@
+body {
+  font-family: "Heebo";
+}
+
+.wrapper {
+  max-width: 855px;
+  margin: 0 auto;
+}
+
+.nav-link {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: right;
+  color: #000000;
+}
+
+h1 {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+  /* Dark Color */
+  color: #21243D;
+}
+
+h2 {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 44px;
+  /* identical to box height */
+  /* Dark Color */
+  color: #21243D;
+}
+
+h3 {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 38px;
+  /* Dark Color */
+  color: #21243D;
+}
+
+p {
+  font-family: 'Heebo';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* Dark Color */
+  color: #21243D;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+
+.button {
+  background: #FF6464;
+  border-radius: 2px;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+#Recent-posts {
+  background: #EDF7FA;
+}
+
+.grid-container {
+  grid-template-columns: 50% 50%;
+  display: grid;
+  grid-column-gap: 20px;
+}
+
+.item {
+  background-color: #ffff;
+  padding: 20px;
+  margin-bottom: 32px;
+}
+
+.top-view {
+  display: inline;
+  margin: 0;
+}
+
+.top {
+  font-size: 22px;
+  line-height: 60px;
+}
+
+.view {
+font-size: 16px;
+line-height: 24px;
+text-align: right;
+
+/* Secondry */
+
+color: #00A8CC;
+
+}
+
+
+.Featured {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  grid-column-gap: 18px;
+}
+
+.Featured-button {
+  width: 62px;
+  height: 25px;
+  background: #142850;
+  border-radius: 16px;
+  border: none;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 900;
+font-size: 18px;
+}
+
+.para {
+  font-size: 20px;
+line-height: 29px;
+
+/* Light */
+
+color: #8695A4;
+}
+
+#footer {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  width: 30px;
+  height: 30px;
+}
+
+.foot {
+  font-size: 14px;
+  line-height: 21px;
+}
